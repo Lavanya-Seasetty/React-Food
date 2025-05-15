@@ -42,8 +42,15 @@ A fully functional food ordering web app built with **React** on the frontend an
 | GET    | `/meals`         | Returns all available meals    |
 | POST   | `/orders`        | Accepts customer order data    |
 
-Image URLs use backend path:
+Image URLs use backend path.
+
+## 🏠 Home Page 
 
 ![Home Page](./screenshots/home.png)
+
+## 🛒 Cart Page 
+
 ![Cart Page](./screenshots/cart.png)
+
+## ✅ Checkout Page 
 ![Checkout Page](./screenshots/checkout.png)
