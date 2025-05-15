@@ -5,9 +5,8 @@ A fully functional food ordering web app built with **React** on the frontend an
 
 ## 🔗 Live Links
 
-- **Frontend (React on Firebase)**: https://reactfood-a9609.web.app/
-- **Backend (Node.js on Render)**: https://food-order-backend-jzse.onrender.com
-
+ https://reactfood-a9609.web.app/
+  
 ---
 
 ## 🧰 Tech Stack
