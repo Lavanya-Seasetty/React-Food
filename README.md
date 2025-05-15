@@ -46,3 +46,4 @@ Image URLs use backend path:
 
 ![Home Page](./screenshots/home.png)
 ![Cart Page](./screenshots/cart.png)
+![Checkout Page](./screenshots/checkout.png)
