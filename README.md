@@ -3,9 +3,9 @@ A fully functional food ordering web app built with **React** on the frontend an
 
 ---
 
-## 🔗 Live Links
+## 🔗 Live Link
 
- https://reactfood-a9609.web.app/
+ live version of the **React Food** App here:  https://reactfood-a9609.web.app/
   
 ---
 
